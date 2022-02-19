@@ -23,8 +23,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # Stats
-![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=gabrielm2q&count_private=true&layout=compact&show_icons=true&theme=midnight-purple&border_color=7f3ace)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielm2q&layout=compact&theme=midnight-purple&border_color=7f3ace&hide=HTML)](https://github.com/gabrielm2q/github-readme-stats)
+![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=gabrielm2q&count_private=true&show_icons=true&theme=midnight-purple&border_color=7f3ace)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielm2q&theme=midnight-purple&border_color=7f3ace&hide=HTML)](https://github.com/gabrielm2q/github-readme-stats)
+<br />
+*Stats powered by anuraghazra/github-readme-stats*
 
 # Views :eyes:
 ![](https://komarev.com/ghpvc/?username=gabrielm2q&label=PROFILE+VIEWS&style=flat&color=7f3ace)
