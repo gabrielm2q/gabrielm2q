@@ -21,6 +21,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logoColor=black&style=for-the-badge&logo=JavaScript)
 
 # Stats
 ![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=gabrielm2q&show_icons=true&theme=midnight-purple&border_color=7f3ace)
@@ -30,6 +31,8 @@
 
 # Views :eyes:
 ![](https://komarev.com/ghpvc/?username=gabrielm2q&label=PROFILE+VIEWS&style=flat&color=7f3ace)
+![](https://img.shields.io/github/followers/gabrielm2q?style=social)
+
 
 
 
