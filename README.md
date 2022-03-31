@@ -3,7 +3,7 @@
 - I :heart: to code and learn new things :octocat:
 - Nowadays, I'm focusing on **learning** new technologies and development methods (and many other things meanwhile)
 - I'm also a **computer technician** :desktop_computer:
-- I'm currently learning web scraping with Python, BeautifulSoup and Selenium
+- I'm currently learning Web Scraping with Python and Selenium
 - Fun fact: I :heart: Stephen Hawking's books
 
 # How to contact me?
@@ -22,12 +22,16 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logoColor=black&style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logoColor=white&style=for-the-badge&logo=TypeScript)
 
 # Stats
-![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=gabrielm2q&show_icons=true&theme=midnight-purple&border_color=7f3ace)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielm2q&theme=midnight-purple&border_color=7f3ace&hide=HTML)](https://github.com/gabrielm2q/github-readme-stats)
-<br />
-*Stats powered by anuraghazra/github-readme-stats*
+<div align="left">
+  <a href="https://github.com/gabrielm2q">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielm2q&show_icons=true&theme=midnight-purple&border_color=7f3ace"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielm2q&theme=midnight-purple&border_color=7f3ace&hide=HTML"/>
+</div>
+  
+[*Stats powered by anuraghazra/github-readme-stats*](https://github.com/anuraghazra/github-readme-stats)
 
 # Views :eyes:
 ![](https://komarev.com/ghpvc/?username=gabrielm2q&label=PROFILE+VIEWS&style=flat&color=7f3ace)
