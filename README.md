@@ -29,7 +29,7 @@
 <div align="left">
   <a href="https://github.com/gabrielm2q">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielm2q&show_icons=true&theme=midnight-purple&border_color=7f3ace"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielm2q&theme=midnight-purple&border_color=7f3ace&hide=HTML"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielm2q&theme=midnight-purple&border_color=7f3ace&hide=HTML&hide=Java"/>
 </div>
   
 [*Stats powered by anuraghazra/github-readme-stats*](https://github.com/anuraghazra/github-readme-stats)
