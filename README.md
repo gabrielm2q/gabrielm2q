@@ -3,8 +3,8 @@
 - I :heart: to code and learn new things :octocat:
 - Nowadays, I'm focusing on **learning** new technologies and development methods (and many other things meanwhile)
 - I'm also a **computer technician** :desktop_computer:
-- I'm currently learning software development with TypeScript and Postgres (back-end)
-- Fun fact: I :heart: Stephen Hawking's books
+- I'm currently learning software development with focus on back-end
+- Random fact: I :heart: Stephen Hawking's books
 
 # How to contact me?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianogab/)
@@ -16,17 +16,15 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-# Currently Learning 😄
-<!---
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
--->
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logoColor=white&style=for-the-badge&logo=TypeScript)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+<!-- # Currently Learning 😄
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logoColor=black&style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logoColor=white&style=for-the-badge&logo=TypeScript)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
 # Stats
 <div align="left">
