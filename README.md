@@ -38,7 +38,7 @@
   
 [*Stats powered by anuraghazra/github-readme-stats*](https://github.com/anuraghazra/github-readme-stats)
 
-# Views :eyes
+<!-- # Views :eyes:
 
 ![](https://komarev.com/ghpvc/?username=gabrielm2q&label=PROFILE+VIEWS&style=flat&color=7f3ace)
-![](https://img.shields.io/github/followers/gabrielm2q?style=social)
+![](https://img.shields.io/github/followers/gabrielm2q?style=social) -->
