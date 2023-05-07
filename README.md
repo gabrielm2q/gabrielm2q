@@ -1,17 +1,17 @@
-# Hi There
+# Hi There!
 
 - I'm studying **software engineering** at [UnB](unb.br)
 - I :heart: to code and learn new things :octocat:
 - Nowadays, I'm focusing on **learning** new technologies and development methods (and many other things meanwhile)
 - I'm also a **computer technician** :desktop_computer:
 - I'm currently learning software development with focus on back-end
+- Nowadays, I'm using ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) as my default O.S.
 
 # How to contact me?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianogab/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariano.gabriel2q@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mariano.gabriel2q)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabrielm2q/)
 
 # Technologies
 
@@ -22,11 +22,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<!-- # Currently Learning 😄
+# Currently Learning 😄
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logoColor=black&style=for-the-badge&logo=JavaScript)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
 # Stats
 
@@ -38,7 +37,7 @@
   
 [*Stats powered by anuraghazra/github-readme-stats*](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- # Views :eyes:
+# Views :eyes:
 
 ![](https://komarev.com/ghpvc/?username=gabrielm2q&label=PROFILE+VIEWS&style=flat&color=7f3ace)
-![](https://img.shields.io/github/followers/gabrielm2q?style=social) -->
+![](https://img.shields.io/github/followers/gabrielm2q?style=social)
