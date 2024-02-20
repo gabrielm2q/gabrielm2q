@@ -5,12 +5,12 @@
 - Nowadays, I'm focusing on **learning** new technologies and development methods (and many other things meanwhile)
 - I'm also a **computer technician** :desktop_computer:
 - I'm currently learning software development with focus on back-end
-- Nowadays, I'm using ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) and ![Windows 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) with ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=orange) as my default workspaces
+- Nowadays, I'm using ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) as my default O.S.
 
 # How to contact me?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianogab/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariano.gabriel2q@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariano.gabriel.work@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mariano.gabriel2q)
 
 # Technologies :smiley:
