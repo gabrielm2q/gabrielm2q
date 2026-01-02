@@ -47,6 +47,4 @@ I'm a Software Engineer graduated at the **University of Brasília (UnB)** and a
 
 ---
 
-### 📊 Stats
-
-[![Gabriel Mariano' Stats](https://github-readme-stats.vercel.app/api?username=gabrielm2q)](https://github.com/anuraghazra/github-readme-stats)
+![snake gif](https://github.com/gabrielm2q/gabrielm2q/blob/output/github-contribution-grid-snake.svg)
