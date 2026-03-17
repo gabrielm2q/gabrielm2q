@@ -46,5 +46,3 @@ I'm a Software Engineer graduated at the **University of Brasília (UnB)** and a
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariano.gabriel.work@gmail.com)
 
 ---
-
-![snake gif](https://github.com/gabrielm2q/gabrielm2q/blob/output/github-contribution-grid-snake.svg)
